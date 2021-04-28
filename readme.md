@@ -19,7 +19,7 @@ If you want to use this code, just download or clone this repository.
 
 ## Files
 
-- /images
+- /images/
     - PacMan1.png
     - PacMan2.png
     - PacMan3.png
